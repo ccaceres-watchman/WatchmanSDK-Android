@@ -69,10 +69,9 @@ dependencies {
 }
 ```
 
-## Installation
-
 ## Usage
 ### Typical use: 
+
 ```kotlin
 class MainActivity : AppCompatActivity() {
 

@@ -66,6 +66,7 @@ dependencies {
     implementation 'com.watchmandoor.libraries:sdk:1.5.1@aar'
     // BLE library
     implementation 'no.nordicsemi.android:ble:2.1.1'
+    implementation 'no.nordicsemi.android.support.v18:scanner:1.4.2'
 }
 ```
 

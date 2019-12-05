@@ -63,7 +63,7 @@ dependencies {
     implementation 'com.watchmandoor.libraries:common:1.0@aar'
     implementation 'com.watchmandoor.libraries:network:1.0@aar'
     implementation 'com.watchmandoor.libraries:connectivity:1.0@aar'
-    implementation 'com.watchmandoor.libraries:sdk:1.5.1@aar'
+    implementation 'com.watchmandoor.libraries:sdk:1.5.5@aar'
     // BLE library
     implementation 'no.nordicsemi.android:ble:2.1.1'
     implementation 'no.nordicsemi.android.support.v18:scanner:1.4.2'

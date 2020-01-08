@@ -61,7 +61,7 @@ dependencies {
     implementation "com.squareup.retrofit2:converter-gson:$retrofitGsonVersion"
     //Watchman
     implementation 'com.watchmandoor.libraries:common:1.2@aar'
-    implementation 'com.watchmandoor.libraries:network:1.1@aar'
+    implementation 'com.watchmandoor.libraries:network:1.2@aar'
     implementation 'com.watchmandoor.libraries:connectivity:1.4@aar'
     implementation 'com.watchmandoor.libraries:sdk:1.5.7@aar'
     // BLE library

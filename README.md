@@ -62,7 +62,7 @@ dependencies {
     //Watchman
     implementation 'com.watchmandoor.libraries:common:1.2@aar'
     implementation 'com.watchmandoor.libraries:network:1.2@aar'
-    implementation 'com.watchmandoor.libraries:connectivity:1.4@aar'
+    implementation 'com.watchmandoor.libraries:connectivity:1.5@aar'
     implementation 'com.watchmandoor.libraries:sdk:1.5.7@aar'
     // BLE library
     implementation 'no.nordicsemi.android:ble:2.1.1'

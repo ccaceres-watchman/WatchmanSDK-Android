@@ -60,10 +60,10 @@ dependencies {
     implementation "com.squareup.retrofit2:retrofit:$retrofitVersion"
     implementation "com.squareup.retrofit2:converter-gson:$retrofitGsonVersion"
     //Watchman
-    implementation 'com.watchmandoor.libraries:common:1.2@aar'
-    implementation 'com.watchmandoor.libraries:network:1.2@aar'
-    implementation 'com.watchmandoor.libraries:connectivity:1.5@aar'
-    implementation 'com.watchmandoor.libraries:sdk:1.5.7@aar'
+    implementation 'com.watchmandoor.libraries:common:1.21@aar'
+    implementation 'com.watchmandoor.libraries:network:1.23@aar'
+    implementation 'com.watchmandoor.libraries:connectivity:1.51@aar'
+    implementation 'com.watchmandoor.libraries:sdk:1.5.8@aar'
     // BLE library
     implementation 'no.nordicsemi.android:ble:2.1.1'
     implementation 'no.nordicsemi.android.support.v18:scanner:1.4.2'
